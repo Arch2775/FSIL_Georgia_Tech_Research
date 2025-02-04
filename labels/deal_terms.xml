@@ -1,0 +1,11 @@
+<View>
+  <HyperTextLabels name="ner" toName="text">
+    
+    
+    
+  <Label value="Date" background="#ff0d00"/><Label value="Date Type" background="#119400"/><Label value="Deal Class" background="#ffa200"/><Label value="Deal Sub-Class" background="#80ff95"/><Label value="Amount Type" background="#ff1100"/><Label value="Amount Value" background="#bac700"/><Label value="Principal of Value" background="#008f18"/><Label value="Fee Type" background="#ff8800"/><Label value="Fee Value" background="#fdff75"/><Label value="Fee Principal of Value" background="#80ff82"/><Label value="Fee Condition" background="#cb25f8"/><Label value="Loan Amount Type" background="#ff0d00"/><Label value="Loan Amount Value" background="#c7ca02"/><Label value="Loan Principal of Value" background="#00a321"/><Label value="Loan Amount Condition" background="#1e00ff"/><Label value="Spread Index" background="#00fffb"/><Label value="Spread Type" background="#ff0000"/><Label value="Spread Value" background="#becc00"/><Label value="Spread Condition" background="#0b9e00"/></HyperTextLabels>
+
+  <View style="border: 1px solid #CCC;                border-radius: 10px;                padding: 5px">
+    <HyperText name="text" value="$html"/>
+  </View>
+</View>
